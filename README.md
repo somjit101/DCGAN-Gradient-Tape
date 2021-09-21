@@ -1,8 +1,6 @@
 # DCGAN-Gradient-Tape
 A study of the use of the Tensorflow GradientTape class for differentiation and custom gradient generation along with its use to implement a Deep-Convolutional Generative Adversarial Network (GAN) to generate images of hand-written digits.
 
-Source
-
 ## Overview
 
 * Here, we examine in detail the uasge of **GradientTape**, a custom differentiation class by Tensorflow which allows us to calculate the derivative of complex functions programmatically. This has immense applications in Deep Learning as we can build customer hidden layers in Neural Networks and specify how the gradients of the loss function are calculated during the training phase. </br>
