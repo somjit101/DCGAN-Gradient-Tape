@@ -12,3 +12,11 @@ A study of the use of the Tensorflow GradientTape class for differentiation and 
 ## Dataset 
 
 We have used the renowned [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/) containing 60,000 train samples and 10,000 test samples of 28x28 grayscale images depicting numerical digits written by a huge number of human subjects. 
+
+## References
+
+* [Applications of GANs](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
+* [GAN Tricks and Hacks](https://github.com/soumith/ganhacks)
+* [MNIST GAN Code Example](https://medium.com/datadriveninvestor/generative-adversarial-network-gan-using-keras-ce1c05cfdfd3)
+* [Stanford Course on Deep Generative Models](https://deepgenerativemodels.github.io/)
+* [Keras Implementations of Various GAN architectures](https://github.com/eriklindernoren/Keras-GAN)
